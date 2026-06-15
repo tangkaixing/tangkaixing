@@ -1,6 +1,6 @@
 <!-- 动态欢迎语 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Hello+World%2C+I'm+tang51678;Python+Enthusiast+%7C+Cyber+Security+Lover;Building+Secure+and+Smart+Systems+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Hello+World%2C+I'm+tangkaixing;Python+Enthusiast+%7C+Cyber+Security+Lover;Building+Secure+and+Smart+Systems+with+Code" alt="Typing SVG" />
 </p>
 
 <br />
