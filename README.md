@@ -24,11 +24,8 @@
 
 <!-- 数据统计（已优化：使用更稳定的 CDN 和 fallback 参数） -->
 <div align="center">
-  <!-- GitHub Stats 使用 vercel.app 镜像，并添加 fallback -->
-  <img src="https://github-readme-stats.vercel.app/api?username=tang51678&theme=radical&show_icons=true&hide_border=true&layout=compact&icon_color=36C9C3&cache_bust=1" width="400" onerror="this.onerror=null; this.src='https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/showcase/compact.svg';" />
-  
-  <!-- Streak Stats 同样添加备用图 -->
-  <img src="https://streak-stats.demolab.com?user=tang51678&theme=radical&date_format=%5BY.%5Dn.j&hide_border=true&stroke=36C9C3&cache_bust=1" width="400" onerror="this.onerror=null; this.src='https://streak-stats.demolab.com?user=demo&theme=radical';" />
+
+  <img align='right' src="https://github-readme-stats.zohan.tech/api?username=tangkaixing&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" width="400">
 </div>
 
 <br />
